@@ -17,7 +17,7 @@ for fresh air for reducing the Coronavirus concentration.
 ### Parts
 
 - Arduino Nano 33 IoT
-- Sensirion SCD30 CO2, humidity and temperature sensor module
+- Sensirion SDC30 CO2, humidity and temperature sensor module
 - Waveshare 0.95 inch RGB OLED
 
 ### Some hints

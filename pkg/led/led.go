@@ -17,7 +17,7 @@ type LED struct {
 	red    machine.Pin
 }
 
-func NewLED() *LED {
+func New() *LED {
 	led := &LED{
 		green:  machine.D10,
 		yellow: machine.D11,

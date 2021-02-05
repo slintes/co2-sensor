@@ -17,7 +17,7 @@ type Wifi struct {
 	adaptor *wifinina.Device
 }
 
-func NewWifi() *Wifi {
+func New() *Wifi {
 	wifi := &Wifi{
 		tx:  machine.NINA_TX,
 		rx:  machine.NINA_RX,
